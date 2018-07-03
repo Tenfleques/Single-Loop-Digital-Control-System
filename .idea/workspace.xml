@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5706fb2-e43d-4e55-8e75-c03a3ba78f0a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/flequesboad/Determinant.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/flequesboad/DigitalRegulator.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/flequesboad/DiscreteModel.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/flequesboad/ImmitatedModel.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/flequesboad/Matrix.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/graphical-result.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0001_76150328.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0002_76150390.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0003_76150437.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0004_76150453.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0005_76150453.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0006_76150468.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0007_76150484.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0008_76150484.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0009_76150500.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0010_76150515.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0011_76150515.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0012_76150531.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0013_76150593.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0014_76150593.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0015_76150609.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0016_76150625.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0017_76150625.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0018_76150640.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0019_76150640.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0020_76150656.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0021_76150671.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0022_76150671.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0023_76150687.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0024_76150687.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0025_76150703.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0026_76150703.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0027_76150718.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0028_76150718.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0030_76150734.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0031_76150734.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0032_76150750.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0033_76150750.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0034_76150765.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0035_76150765.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0036_76150781.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0037_76150781.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0039_76150796.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0040_76150812.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0041_76150812.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0042_76150812.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0043_76150828.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0044_76150828.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0045_76150843.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0046_76150843.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0047_76150859.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0048_76150859.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0049_76150875.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0050_76150968.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0051_76150968.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0052_76150968.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0053_76150984.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0054_76150984.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0055_76151000.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0056_76151000.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0057_76151015.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0058_76151015.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0060_76151031.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0061_76151031.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0062_76151046.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0063_76151046.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0064_76151046.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0065_76151062.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0066_76151062.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0067_76151078.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0068_76151078.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0069_76151093.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0070_76151093.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0071_76151109.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0072_76151109.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0073_76151125.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0074_76151125.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0075_76151140.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0076_76151140.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0077_76151156.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0078_76151156.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0079_76151171.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0080_76151171.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0081_76151187.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0082_76151187.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0083_76151203.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0084_76151203.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0085_76151218.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0087_76151218.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/filelist.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0001_76280656.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0002_76280656.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0003_76280656.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0004_76280671.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0005_76280687.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0006_76280687.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0007_76280687.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0008_76280687.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0009_76280703.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0010_76280703.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0011_76280718.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0012_76280718.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0013_76280718.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0014_76280734.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0015_76280734.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0016_76280734.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0017_76280734.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0018_76280750.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0019_76280750.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0020_76280765.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0021_76280765.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0022_76280765.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0023_76280765.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0024_76280765.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0025_76280781.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0026_76280781.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0027_76280796.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0028_76280796.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0029_76280812.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0030_76280828.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0031_76280828.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0032_76280843.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0033_76280843.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0034_76280859.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0035_76280859.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0036_76280906.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0037_76280906.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0038_76280921.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0039_76280921.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0041_76280921.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0042_76280968.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0043_76280968.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0044_76280984.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0045_76280984.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0046_76281000.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0047_76281000.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0048_76281000.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0049_76281015.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0050_76281015.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0051_76281031.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0052_76281031.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0054_76281046.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0055_76281046.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0056_76281046.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0057_76281062.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0058_76281062.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0059_76281062.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0060_76281078.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0061_76281078.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0062_76281078.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0063_76281093.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0064_76281093.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0065_76281093.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0066_76281109.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0067_76281109.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0068_76281125.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0069_76281125.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0070_76281125.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0071_76281125.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0072_76281140.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0073_76281140.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0075_76281140.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0076_76281156.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0077_76281156.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0078_76281156.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0079_76281171.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0080_76281171.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0081_76281171.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0082_76281187.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0083_76281187.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0084_76281187.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0085_76281187.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0086_76281203.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0087_76281203.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0088_76281218.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0089_76281218.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0090_76281218.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0091_76281234.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0092_76281234.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0093_76281234.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0094_76281234.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0095_76281250.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0096_76281250.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0097_76281250.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0098_76281265.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0099_76281265.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0100_76281265.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0102_76281281.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/filelist.xml" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="31" />
+    <option name="width" value="665" />
+    <option name="height" value="682" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="numericalSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="single-loop-digital-control-system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="numericalSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="single-loop-digital-control-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="numericalSolutions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="single-loop-digital-control-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="flequesboad" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.flequesboad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.flequesboad.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="numericalSolutions" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../scala/BigDataSchool2018" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scala/twitter-sentiment-analysis" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../spark/learn/BigDataSchool2018" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../spark/learn/SimpleApp" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5706fb2-e43d-4e55-8e75-c03a3ba78f0a" name="Default" comment="" />
+      <created>1530636058476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530636058476</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="31" width="1370" height="689" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1918429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
