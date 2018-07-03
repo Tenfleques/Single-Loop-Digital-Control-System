@@ -1,199 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5706fb2-e43d-4e55-8e75-c03a3ba78f0a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/flequesboad/Determinant.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/flequesboad/DigitalRegulator.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/flequesboad/DiscreteModel.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/flequesboad/ImmitatedModel.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/flequesboad/Matrix.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/graphical-result.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0001_76150328.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0002_76150390.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0003_76150437.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0004_76150453.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0005_76150453.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0006_76150468.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0007_76150484.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0008_76150484.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0009_76150500.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0010_76150515.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0011_76150515.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0012_76150531.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0013_76150593.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0014_76150593.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0015_76150609.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0016_76150625.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0017_76150625.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0018_76150640.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0019_76150640.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0020_76150656.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0021_76150671.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0022_76150671.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0023_76150687.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0024_76150687.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0025_76150703.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0026_76150703.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0027_76150718.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0028_76150718.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0030_76150734.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0031_76150734.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0032_76150750.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0033_76150750.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0034_76150765.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0035_76150765.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0036_76150781.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0037_76150781.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0039_76150796.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0040_76150812.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0041_76150812.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0042_76150812.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0043_76150828.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0044_76150828.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0045_76150843.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0046_76150843.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0047_76150859.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0048_76150859.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0049_76150875.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0050_76150968.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0051_76150968.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0052_76150968.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0053_76150984.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0054_76150984.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0055_76151000.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0056_76151000.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0057_76151015.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0058_76151015.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0060_76151031.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0061_76151031.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0062_76151046.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0063_76151046.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0064_76151046.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0065_76151062.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0066_76151062.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0067_76151078.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0068_76151078.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0069_76151093.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0070_76151093.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0071_76151109.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0072_76151109.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0073_76151125.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0074_76151125.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0075_76151140.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0076_76151140.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0077_76151156.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0078_76151156.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0079_76151171.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0080_76151171.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0081_76151187.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0082_76151187.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0083_76151203.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0084_76151203.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0085_76151218.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/IMG0087_76151218.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_I-Zakon_images/filelist.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0001_76280656.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0002_76280656.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0003_76280656.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0004_76280671.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0005_76280687.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0006_76280687.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0007_76280687.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0008_76280687.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0009_76280703.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0010_76280703.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0011_76280718.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0012_76280718.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0013_76280718.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0014_76280734.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0015_76280734.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0016_76280734.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0017_76280734.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0018_76280750.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0019_76280750.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0020_76280765.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0021_76280765.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0022_76280765.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0023_76280765.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0024_76280765.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0025_76280781.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0026_76280781.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0027_76280796.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0028_76280796.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0029_76280812.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0030_76280828.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0031_76280828.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0032_76280843.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0033_76280843.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0034_76280859.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0035_76280859.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0036_76280906.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0037_76280906.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0038_76280921.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0039_76280921.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0041_76280921.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0042_76280968.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0043_76280968.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0044_76280984.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0045_76280984.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0046_76281000.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0047_76281000.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0048_76281000.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0049_76281015.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0050_76281015.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0051_76281031.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0052_76281031.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0054_76281046.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0055_76281046.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0056_76281046.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0057_76281062.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0058_76281062.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0059_76281062.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0060_76281078.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0061_76281078.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0062_76281078.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0063_76281093.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0064_76281093.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0065_76281093.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0066_76281109.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0067_76281109.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0068_76281125.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0069_76281125.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0070_76281125.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0071_76281125.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0072_76281140.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0073_76281140.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0075_76281140.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0076_76281156.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0077_76281156.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0078_76281156.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0079_76281171.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0080_76281171.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0081_76281171.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0082_76281187.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0083_76281187.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0084_76281187.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0085_76281187.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0086_76281203.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0087_76281203.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0088_76281218.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0089_76281218.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0090_76281218.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0091_76281234.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0092_76281234.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0093_76281234.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0094_76281234.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0095_76281250.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0096_76281250.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0097_76281250.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0098_76281265.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0099_76281265.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0100_76281265.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/IMG0102_76281281.JPG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Laba_Pid-Zakon_images/filelist.xml" afterPath="" />
-    </list>
+    <list default="true" id="c5706fb2-e43d-4e55-8e75-c03a3ba78f0a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -201,6 +9,23 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -432,20 +257,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="31" width="1370" height="689" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290441" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290441" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1918429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1918429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -467,6 +294,19 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
